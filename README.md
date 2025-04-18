@@ -24,8 +24,3 @@ Make sure you have the following Python libraries installed:
 - [matplotlib](https://matplotlib.org/)
 - [wordcloud](https://amueller.github.io/word_cloud/)
 
-You can install them using pip:
-
-```bash
-pip install pandas seaborn matplotlib wordcloud
-
